@@ -1,0 +1,33 @@
+query getProducts(
+    $pageSize: Int!
+    $currentPage: Int!
+) {
+    products(
+       pageSize: $pageSize
+       currentPage: $currentPage
+       filter:{}
+    ) {
+        items {
+            id
+            name
+            small_image {
+                url
+            }
+            url_key
+            url_suffix
+            price {
+                regularPrice {
+                    amount {
+                        value
+                        currency
+                    }
+                }
+            }
+        }
+        page_info {
+            total_pages
+            current_page
+        }
+        total_count
+    }
+}
