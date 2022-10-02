@@ -1,1 +1,1 @@
-export {default} from './greetingPage';
+export {default} from './seeAllProducts';

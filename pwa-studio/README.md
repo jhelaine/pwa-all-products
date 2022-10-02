@@ -1,6 +1,6 @@
 # In a working PWA starter application (using scaffolding tool)
 
-# Add the file in local-intercept.js 
-# In the components folder, add the SeeAllProducts component 
-# rebuild the application before and navigate to /see-all-products.
-# Please see sample.jpg for sample output in local
+1. Add the file in local-intercept.js <br/>
+2. In the components folder, add the SeeAllProducts component. <br/>
+3. Rebuild the application before and navigate to /see-all-products.<br/>
+4. See sample.jpg for sample output in local
