@@ -5,4 +5,4 @@
 3. Rebuild the application and navigate to /see-all-products.<br/>
 
 ## What you will build
-![Screenshot](./pwa-studio/sample.png)
+![Screenshot](sample.png)
