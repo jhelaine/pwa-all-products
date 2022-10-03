@@ -3,4 +3,6 @@
 1. Add the file in local-intercept.js <br/>
 2. In the components folder, add the SeeAllProducts component. <br/>
 3. Rebuild the application and navigate to /see-all-products.<br/>
-4. See sample.jpg for sample output in local
+
+
+./pwa-studio/sample.jpg
