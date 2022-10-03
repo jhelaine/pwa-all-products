@@ -4,5 +4,4 @@
 2. In the components folder, add the SeeAllProducts component. <br/>
 3. Rebuild the application and navigate to /see-all-products.<br/>
 
-
-./pwa-studio/sample.jpg
+[what we are building]: ./pwa-studio/sample.jpg
